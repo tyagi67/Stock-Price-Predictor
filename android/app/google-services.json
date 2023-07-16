@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623119011730",
+    "project_id": "stock-price-predictor-813d3",
+    "storage_bucket": "stock-price-predictor-813d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623119011730:android:1b8786fe64da3c3f85bb4b",
+        "android_client_info": {
+          "package_name": "com.example.stock_price_predictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623119011730-v0hfnjreu3jjpld6v4d9hgvhlo3bjns6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANIPB0-aUWQI6aODNHioE_Ij2RXSnnQSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623119011730-v0hfnjreu3jjpld6v4d9hgvhlo3bjns6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
